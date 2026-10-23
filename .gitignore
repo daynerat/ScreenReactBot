@@ -1,0 +1,8 @@
+__pycache__/
+build/
+dist/
+*.spec
+settings.json
+target_*.png
+dest_*.png
+*.log
